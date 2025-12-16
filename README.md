@@ -1,5 +1,3 @@
-# Alireza Alavi's Github pages
-
 **Visit my main website [alavi.me](https://alavi.me)**
 
 This is just where some of my projects that are hosted on github pages live.
